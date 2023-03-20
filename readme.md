@@ -86,13 +86,14 @@ Union-Find 구현 방법만 익숙해지면 쉽게 풀 수 있지 않을까 생�
 
 문자열을 저장하고 효율적으로 탐색하기 위한 트리 형태의 자료구조
 
-| 순번 | 추천 문제 |                                                 문제 번호                                                  |                                                                     문제 이름                                                                      | 난이도 | 풀이 링크 | 성공 여부 |
-| :--: | :-------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-------: | :-------: |
-|  00  |           | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank">211</a> | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank"> Design Add and Search Words Data Structure</a> | medium |           |           |
+| 순번 |     추천 문제      |                                                 문제 번호                                                  |                                                                     문제 이름                                                                      | 난이도 | 풀이 링크 | 성공 여부 |
+| :--: | :----------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-------: | :-------: |
+|  00  | :heavy_check_mark: | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank">211</a> | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank"> Design Add and Search Words Data Structure</a> | medium |           |           |
 
 <br>
 
 ### 참고
 
 - 백준 추천 문제 : https://github.com/tony9402/baekjoon
+- 릿코드 오늘의 문제 : https://leetcode.com/problemset/all/
 - 도서 : 262가지 문제로 정복하는 코딩 인터뷰

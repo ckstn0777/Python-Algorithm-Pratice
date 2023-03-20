@@ -10,9 +10,9 @@
 
 ### 기본 자료구조 2 (data_structure2) - Map, Set, Priority Queue(우선순위 큐)
 
-| 순번 |     추천 문제      |                                             문제 번호                                             |                                                          문제 이름                                                           | 난이도 |        풀이 링크         | 성공 여부 |
-| :--: | :----------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----: | :----------------------: | :-------: |
-|  00  | :heavy_check_mark: | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">1642</a> | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Furthest Building You Can Reach</a> | medium | 약간의 잔머리를 굴려보자 |           |
+| 순번 |     추천 문제      |                                             문제 번호                                             |                                                          문제 이름                                                           | 난이도 |     풀이 링크      | 성공 여부 |
+| :--: | :----------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----: | :----------------: | :-------: |
+|  00  | :heavy_check_mark: | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">1642</a> | <a href="https://leetcode.com/problems/furthest-building-you-can-reach/" target="_blank">Furthest Building You Can Reach</a> | medium | 약간의 잔머리 필요 |           |
 
 <br>
 
@@ -79,6 +79,16 @@ Union-Find 구현 방법만 익숙해지면 쉽게 풀 수 있지 않을까 생�
 | 순번 | 추천 문제 |                                           문제 번호                                            |                                                        문제 이름                                                        | 난이도 | 풀이 링크 | 성공 여부 |
 | :--: | :-------: | :--------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :----: | :-------: | :-------: |
 |  00  |           | <a href="https://leetcode.com/problems/as-far-from-land-as-possible/" target="_blank">1162</a> | <a href="https://leetcode.com/problems/as-far-from-land-as-possible/" target="_blank"> As Far from Land as Possible</a> | medium |           |    :o:    |
+
+<br>
+
+### 트라이(trie)
+
+문자열을 저장하고 효율적으로 탐색하기 위한 트리 형태의 자료구조
+
+| 순번 | 추천 문제 |                                                 문제 번호                                                  |                                                                     문제 이름                                                                      | 난이도 | 풀이 링크 | 성공 여부 |
+| :--: | :-------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-------: | :-------: |
+|  00  |           | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank">211</a> | <a href="https://leetcode.com/problems/design-add-and-search-words-data-structure" target="_blank"> Design Add and Search Words Data Structure</a> | medium |           |           |
 
 <br>
 

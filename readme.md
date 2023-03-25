@@ -50,9 +50,10 @@ DFS + 백트래킹 형식으로 익숙해지면 쉽게 풀 수 있습니다.
 
 Union-Find 구현 방법만 익숙해지면 쉽게 풀 수 있지 않을까 생각됩니다.
 
-| 순번 | 추천 문제 |                                 문제 번호                                 |                                   문제 이름                                   |                                       난이도                                       | 풀이 링크 | 성공 여부 |
-| :--: | :-------: | :-----------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------: | :-------: |
-|  00  |           | <a href="https://www.acmicpc.net/problem/11085" target="_blank">11085</a> | <a href="https://www.acmicpc.net/problem/11085" target="_blank">군사 이동</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |           |    :o:    |
+| 순번 | 추천 문제 |                                                        문제 번호                                                         |                                                                                  문제 이름                                                                                  |                                       난이도                                       | 풀이 링크 | 성공 여부 |
+| :--: | :-------: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------: | :-------: |
+|  00  |           |                        <a href="https://www.acmicpc.net/problem/11085" target="_blank">11085</a>                         |                                                <a href="https://www.acmicpc.net/problem/11085" target="_blank">군사 이동</a>                                                | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |           |    :o:    |
+|  01  |           | <a href="https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph" target="_blank">2316</a> | <a href="https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph" target="_blank">Count Unreachable Pairs of Nodes in an Undirected Graph</a> |                                       medium                                       |           |    :o:    |
 
 <br>
 
